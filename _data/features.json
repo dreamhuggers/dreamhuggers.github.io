@@ -10,7 +10,7 @@
   },
   {
     "title": "Causal Machine Learning",
-    "description": "Understand the causes behind an event.",
+    "description": "Understand causes behind events.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Event Forecasting",
-    "description": "Predict future events from sequence data.",
+    "description": "Predict events with sequence data.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
