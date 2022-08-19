@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Dreamhuggers - The Data Artists
+# Dreamhuggers
 
-Dreamhuggers provides Machine Learning solutions for the Internet industry. We specialize in real-time data and problem statements where the why is more important than the what.
+We specialize in real-time data and problem statements where the why is more important than the what.
